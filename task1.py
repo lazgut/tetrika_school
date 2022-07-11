@@ -9,4 +9,3 @@ def task(array: str) -> int:
 
 if __name__ == '__main__':
     print(task("111111111110000000000000000"))
-    
